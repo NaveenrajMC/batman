@@ -7,7 +7,7 @@
     
 }
 header {
-    background-image: url("batman.jpeg");
+    background-image: url("assets/batman.jpeg");
     height: 100vh;
     background-size: cover;
     background-position: center;
